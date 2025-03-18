@@ -12,8 +12,8 @@ React JS, Angular & Vue JS - Quickstart & Comparison
 
 ## Description
 
-After learning the basics about JavaScript, the JavaScript world can be very intimidating.There are lots of different frameworks like Angular, React or Vue, libraries and other packages You’ll get an introduction into the three most important JavaScript frameworks (Angular, React.js and Vue.js) and you’ll also get a detailed comparison!
+After learning the basics about JavaScript, the JavaScript world can be very intimidating.There are lots of different frameworks like React JS, Angular or Vue JS, libraries and other packages You’ll get an introduction into the three most important JavaScript frameworks (React JS, Angular & Vue JS) and you’ll also get a detailed comparison!
 
 This will then allow you to pick other resources or courses to dive super-deep into your chosen framework whilst having a solid foundation already.
 
-This repository contains various course resources for [Quickstart and Comparison Javascript Framework](https://www.udemy.com/course/angular-reactjs-vuejs-quickstart-comparison/?couponCode=2021PM25).
+This repository contains various course resources for [React JS, Angular & Vue JS - Quickstart & Comparison](https://www.udemy.com/course/angular-reactjs-vuejs-quickstart-comparison/?couponCode=2021PM25).
