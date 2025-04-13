@@ -4,7 +4,7 @@
 
 [![certificate ui][product-ui]](https://example.com)
 
-[product-ui]: certificate.jpg
+[product-ui]: certificate/certificate.jpg
 
 # Quickstart and Comparison Javascript Framework Course Code Repository
 
